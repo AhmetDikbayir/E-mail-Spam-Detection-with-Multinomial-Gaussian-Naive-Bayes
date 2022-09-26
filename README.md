@@ -13,7 +13,7 @@ For analysis, I just used 2 columns one of them text column and other one is cla
 
 ## Build the Model 
 
-I used Multinomial Gaussian Naive Bayes for determining the spam mails.  
+I used Multinomial Naive Bayes for determining the spam mails.  
 
 ## Evaluate the Model 
 
