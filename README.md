@@ -1,4 +1,4 @@
-# E-mail-Spam-Detection-with-Multinomial-Gaussian-Naive-Bayes
+# E-mail-Spam-Detection-with-Multinomial-Naive-Bayes
 ## Problem Statement 
 
 The main aim of this project is to determine the spam mail.  
